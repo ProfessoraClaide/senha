@@ -90,3 +90,7 @@ body{
         flex-direction: row;
     }
 }
+.parametro-senha_botao{
+    background-color: var(--cor-de-fundo);
+
+}
